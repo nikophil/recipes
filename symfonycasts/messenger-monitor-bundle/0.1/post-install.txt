@@ -1,0 +1,3 @@
+ * Messenger monitor bundle successfully installed!
+   Please don't forget to generate the table by running `doctrine:schema:update` or by creating a doctrine migration.
+
